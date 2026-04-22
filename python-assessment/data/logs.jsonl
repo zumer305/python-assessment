@@ -1,0 +1,10 @@
+{"user": "Ali", "timestamp": "2026-04-22T10:00:00", "level": "ERROR", "message": "Database connection failed", "code": 500}
+{"user": "Ahmed", "timestamp": "2026-04-22T10:05:00", "level": "INFO", "message": "Server started successfully", "code": 200}
+{"user": "Ali", "timestamp": "2026-04-22T10:10:00", "level": "WARNING", "message": "Low disk space", "code": 300}
+{"user": "Sara", "timestamp": "2026-04-22T10:15:00", "level": "ERROR", "message": "Timeout occurred", "code": 504}
+{"user": "Ahmed", "timestamp": "2026-04-22T10:20:00", "level": "INFO", "message": "User logged in", "code": 200}
+{"user": "Sara", "timestamp": "2026-04-22T10:25:00", "level": "INFO", "message": "Data fetched from API", "code": 200}
+{"user": "Ali", "timestamp": "2026-04-22T10:30:00", "level": "WARNING", "message": "High memory usage detected", "code": 301}
+{"user": "Ahmed", "timestamp": "2026-04-22T10:35:00", "level": "ERROR", "message": "Null pointer exception", "code": 500}
+{"user": "Sara", "timestamp": "2026-04-22T10:40:00", "level": "DEBUG", "message": "Variable x initialized", "code": 100}
+{"user": "Ali", "timestamp": "2026-04-22T10:45:00", "level": "INFO", "message": "Email sent successfully", "code": 200}
